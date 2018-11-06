@@ -1,1 +1,0 @@
-print('paranoid android')
